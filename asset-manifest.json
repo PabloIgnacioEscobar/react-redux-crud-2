@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe4c1d8b.css",
-    "main.js": "/static/js/main.74103fde.js",
-    "index.html": "/index.html",
-    "main.fe4c1d8b.css.map": "/static/css/main.fe4c1d8b.css.map",
-    "main.74103fde.js.map": "/static/js/main.74103fde.js.map"
+    "main.css": "/react-redux-crud-2/static/css/main.fe4c1d8b.css",
+    "main.js": "/react-redux-crud-2/static/js/main.74103fde.js",
+    "index.html": "/react-redux-crud-2/index.html",
+    "main.fe4c1d8b.css.map": "/react-redux-crud-2/static/css/main.fe4c1d8b.css.map",
+    "main.74103fde.js.map": "/react-redux-crud-2/static/js/main.74103fde.js.map"
   },
   "entrypoints": [
     "static/css/main.fe4c1d8b.css",
